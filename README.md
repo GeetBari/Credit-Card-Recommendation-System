@@ -1,3 +1,12 @@
+> ## Team Project
+> This repository is a fork of a group academic project.
+>
+> Original repository: [AdvaitBothe1105/Credit-Card-Recommendation-System](https://github.com/AdvaitBothe1105/Credit-Card-Recommendation-System)
+>
+> I participated as a member of the project team. 
+
+
+
 # Credit Card Recommendation System
 
 A machine learning-based system that recommends the most suitable credit card for a user based on input features such as income, age, employment status, and spending patterns. The system uses models like Random Forest, XGBoost, and KNN to generate predictions.
